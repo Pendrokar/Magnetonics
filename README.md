@@ -1,5 +1,5 @@
-# devgame.sdd
-test game for engine devs
+# Magnetonics
+Starting template based on SpringSimpleGame and then DevGame.
 
 
-to use, git clone to ~/.spring/games/devgame.sdd and start "devgame $VERSION"
+to use, git clone to ~/.spring/games/magnetonics.sdd and start "Magnetonics 1.2"
