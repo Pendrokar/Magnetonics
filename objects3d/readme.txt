@@ -1,0 +1,1 @@
+3D models created using Blender, converted to Wavefront '.obj', then imported in Upspring and saved as '.s3o' files.
